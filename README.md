@@ -1,6 +1,7 @@
 ## Hey everyone
+
 <p align="center>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtycnpvZnl4b3J1eG9hYWtqcXVjN243ajg4cTQ3eXh5ZDZ2M2J3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHevqvSjCbdlGyEF6y/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN0dGEyazI3eTJwZGY1NTM4NHd4OWQ2bTN4NmE0MHl1czlvdW1oMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BHevqvSjCbdlGyEF6y/giphy.gif"/>
 </p>
 
 ## 💫 I am Samriddhi
