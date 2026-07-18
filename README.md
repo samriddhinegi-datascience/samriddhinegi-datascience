@@ -1,4 +1,9 @@
-## 💫 About Me:
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmsxdjlrbDVqNDc0Mzh0Z3pheGZ5a2d5NDN4dzQ0MXYwZDc0ZWR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHevqvSjCbdlGyEF6y/giphy.gif">
+</p>
+
+
+## 💫 Hi I am Samriddhi
 🔭 I'm currently working on: Machine learning models, data analytics dashboards, and AI-powered applications.<br><br>🌱 I'm currently learning: Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI.<br><br>👯 I'm looking to collaborate on: AI, machine learning, open-source, and data-driven research projects.<br><br>🤔 I'm looking for help with: LLMs, MLOps, cloud deployment, and large-scale machine learning systems.<br><br>💬 Ask me about: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, and Machine Learning.<br><br>📫 How to reach me: samriddhinegi123@gmail.com <br><br>⚡ Fun fact: I love uncovering patterns in data and building intelligent systems that solve real-world challenges.
 
 
@@ -20,9 +25,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samriddhinegi-datascience&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=samriddhinegi-datascience&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
